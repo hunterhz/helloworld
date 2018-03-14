@@ -42,7 +42,7 @@ public class DeptListServlet extends HttpServlet {
 		out.print("    </tr>");
 		
 		
-		
+		//out.print("  hahahahahhahahaha");
 		
 		
 		Connection conn =null;
